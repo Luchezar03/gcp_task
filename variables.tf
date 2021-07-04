@@ -13,7 +13,7 @@ variable "region" {
 
 variable "target_project_name" {
   type    = string
-  default = "gcp-project-new-2021"
+  default = "gcp-project-june-2021"
 }
 
 variable "domain" {
